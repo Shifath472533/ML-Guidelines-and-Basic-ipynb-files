@@ -60,4 +60,4 @@ https://github.com/fchollet/deep-learning-with-python-notebooks
 1. https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html
 
 ### kaggle:
-1. https://github.com/tanny411/Secure_and_private_AI/blob/master/%23sg_hackathon-orgnizrs/Resources.md
+1. https://github.com/Shifath472533/ML-Guidelines-and-Basic-ipynb-files/blob/master/resources2.md
